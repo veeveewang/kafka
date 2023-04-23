@@ -121,7 +121,7 @@ versions += [
   snappy: "1.1.8.4",
   spotbugs: "4.2.2",
   swaggerAnnotations: "2.2.0",
-  swaggerJaxrs2: "2.2.0",
+  swaggerJaxrs2: "2.2.7",
   zinc: "1.6.1",
   zookeeper: "3.6.3",
   zstd: "1.5.2-1"
